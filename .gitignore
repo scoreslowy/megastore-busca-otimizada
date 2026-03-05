@@ -1,0 +1,16 @@
+# Rust build
+/target/
+/tmp/
+/*.rs.bk
+
+# Editor folders
+.vscode/
+/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rust temp
+.rustc_info.json
+CACHE_DIR.TAG
