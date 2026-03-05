@@ -1,6 +1,7 @@
 # Rust build
 /target/
 /tmp/
+/benches/
 /*.rs.bk
 
 # Editor folders
