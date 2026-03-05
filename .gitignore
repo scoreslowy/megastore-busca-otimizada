@@ -1,0 +1,15 @@
+﻿# Rust
+target/
+
+# Env / segredos
+.env
+.env.*
+
+# IDE/SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
