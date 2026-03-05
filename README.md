@@ -1,6 +1,6 @@
 # Sistema de Busca Otimizado para Catálogo de Produtos – MegaStore
 
-> Trabalho acadêmico – disciplina **Data Structure Strategy and Implementation** (FECAF)
+> Trabalho acadêmico – disciplina **Data Structure Strategy and Implementation** (UNIFECAF)
 
 ## 1 O que é este projeto
 A proposta é implementar um **sistema de busca** para um catálogo grande (cenário: milhões de itens), evitando varredura completa do catálogo a cada consulta.
