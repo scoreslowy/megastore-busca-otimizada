@@ -36,6 +36,7 @@ O repositório contém:
 - `tests/`: testes automatizados (integração/funcionais);
 - `Cargo.toml` / `Cargo.lock`: dependências;
 - `docs/`: PDF da documentação (padrão solicitado).
+- `data/`: dataset de exemplo usado nos comandos (data/sample_products.jsonl)
 
 ## 3 Tecnologias e bibliotecas
 - Rust (edition 2021)
@@ -112,7 +113,7 @@ N=10000
 Interpretação curta: busca/indexação ficaram rápidas; a construção do grafo cresce mais rápido com N e vira o gargalo. Em produção, faria construção incremental e/ou limitaria candidatos e/ou geraria recomendação sob demanda.
 
 ## 8 Documentação (PDF)
-- `docs/MegaStore_Documentacao.pdf`
+- `docs/MegaStore_Documentacao,.pdf`
 
 ## 9 Referências (links)
 - Elastic. *Practical BM25 – Part 2*. https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables (acesso em 04/03/2026)
